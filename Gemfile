@@ -60,3 +60,6 @@ gem 'pry-rails'
 group :production do
   gem 'rails_12factor'
 end
+
+gem 'bootstrap', '~> 4.5.2'
+gem 'jquery-rails'
